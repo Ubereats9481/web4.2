@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ubereats81'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87259B6CF17C47D89F26F796CCAB1758 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C64C1227BC642318539677D51C08397 }}
           package: .
